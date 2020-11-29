@@ -30,11 +30,11 @@
         </activity>
 
         <activity
-            android:name=".DictionaryActivity"
+            android:name=".InfoActivity"
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".DictionaryActivity" />
+                android:value=".InfoActivity" />
         </activity>
 
 
